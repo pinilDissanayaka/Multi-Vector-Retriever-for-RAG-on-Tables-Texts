@@ -1,0 +1,18 @@
+langchain
+langchain_community
+langchain_huggingface
+sentence-transformers
+transformers
+pinecone
+langchain_core
+langchain_huggingface
+langchain_pinecone
+langchain_experimental
+langchain_groq
+ unstructured[all-docs]
+pydantic 
+lxml 
+langchainhub 
+fastapi 
+kaleido 
+uvicorn
